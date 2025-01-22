@@ -41,7 +41,7 @@ Para ver uma prévia do meu novo site, acesse:
 
 ## Animações
 
-* **2009**: [Banner Interativo - Game de Zumbi](./assets/2009_banner_game_zumbi.swf) (Animação Flash e Programação ActionScript)
+* **2009**: [Banner Interativo - Game de Zumbi](./assets/2009-banner-game-zumbi.swf) (Animação Flash e Programação ActionScript)
 
 *Obs.: Infelizmente ainda não encontrei uma solução para rodar animações antigas criadas no Flash em sistemas operacionais atuais.*
 
